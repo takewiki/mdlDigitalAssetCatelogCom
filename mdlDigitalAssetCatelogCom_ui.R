@@ -9,7 +9,8 @@ tabItem(tabName = "mdlDigitalAssetCatelogCom",
                                     #以上为注册ui组件的内容-----
                                     #begin----
                                     #uiComponent seperated by comma (,)
-                                    mdlDigitalAssetCatelogUI::DigitalAssetCatelogUI()
+                                    mdlDigitalAssetCatelogUI::DigitalAssetCatelogUI(),
+                                    mdlDigitalAssetCatelogUI::LPsrcViewUI()
                                      
                                     
                                     
